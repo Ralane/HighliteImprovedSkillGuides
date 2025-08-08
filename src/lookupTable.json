@@ -1,0 +1,104 @@
+{
+    "Brew Potion of Accuracy": {
+        "recipe": "Aruba Root + Carrot + Vial",
+        "xp": "25 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "10% boost to Accuracy level"
+    },
+    "Brew Potion of Forestry": {
+        "recipe": "Fiji Root + Leaf + Vial",
+        "xp": "30 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "5% boost to Forestry level"
+    },
+    "Brew Potion of Fishing": {
+        "recipe": "Sardinian Root + Starfish + Vial",
+        "xp": "35 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "5% boost to Fishing level"
+    },
+    "Brew Potion of Mining": {
+        "recipe": "Maui Root + Palladium Ore + Vial",
+        "xp": "50 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "5% boost to Mining level"
+    },
+    "Brew Potion of Defense": {
+        "recipe": "Grenada Root + Bone Meal + Vial ",
+        "xp": "40 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "10% boost to Defense level"
+    },
+    "Brew Potion of Smithing": {
+        "recipe": "Tonga Root + Palladium Bar + Vial",
+        "xp": "100 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "5% boost to Smithing level"
+    },
+    "Brew Potion of Restoration": {
+        "recipe": "Nauru Root + Strawberry + Vial",
+        "xp": "45 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "Restores any stats that have been altered"
+    },
+    "Brew Potion of Strength": {
+        "recipe": "Samoan Root + Grapes + Vial",
+        "xp": "65 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "10% boost to Strength level"
+    },
+    "Brew Potion of Mischief": {
+        "recipe": "Vanua Root + Rat Tail + Vial",
+        "xp": "80 XP",
+        "facility": "Witch's Cauldron",
+        "itemEffects": "5% boost to Crime level"
+    },
+    "Brew Potion of Magic": {
+        "recipe": "Mariana Root + Elf Ears + Vial",
+        "xp": "125 XP",
+        "facility": "Wizard's Cauldron",
+        "itemEffects": "10% boost to Magic level"
+    },
+
+    "Smelt Bronze Bars": {
+        "recipe": "Copper Ore + Tin Ore",
+        "xp": "25 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Bars": {
+        "recipe": "Iron Ore",
+        "xp": "35 XP",
+        "facility": "Furnace",
+        "itemEffects": "50% chance to create Pig Iron Bars"
+    },
+    "Smelt Steel Bars": {
+        "recipe": "Iron Ore + Coal",
+        "xp": "50 XP",
+        "facility": "Furnace"
+    },    
+    "Smelt Silver Bars": {
+        "recipe": "4x Silver Nugget",
+        "xp": "60 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Bars": {
+        "recipe": "1x Palladium Ore + 2x Coal",
+        "xp": "75  XP",
+        "facility": "Furnace"
+    },
+    "Smelt Gold Bars": {
+        "recipe": "4x Gold Nugget",
+        "xp": "100 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Bars": {
+        "recipe": "1x Coronium Ore + 4x Coal",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Celadium Bars": {
+        "recipe": "1x Celadium Ore + 8x Coal",
+        "xp": "300 XP",
+        "facility": "Furnace"
+    }
+}
