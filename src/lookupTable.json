@@ -60,6 +60,8 @@
         "itemEffects": "10% boost to Magic level"
     },
 
+    
+
     "Smelt Bronze Bars": {
         "recipe": "Copper Ore + Tin Ore",
         "xp": "25 XP",

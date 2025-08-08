@@ -8,7 +8,17 @@ export default class ImprovedSkillGuides extends Plugin {
     author: string = "0rangeYouGlad";
 
     constructor() {
-        super()
+        super();
+
+        this.pluginName = "Improved Skill Guides";
+        this.author = "0rangeYouGlad";
+
+        this.settings.disclaimer = {
+            text: "Note from the developer",
+            type: SettingsTypes.text,
+            value: "This plugin is still super early in development! Not all items/skills have been added yet in this initial version.",
+            callback: () => {},
+        };
 
         this.settings.showRecipe = {
             text: "Show Recipes",
