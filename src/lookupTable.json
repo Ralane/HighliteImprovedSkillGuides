@@ -105,380 +105,463 @@
     },
 
 
-    "Smelt Bronze Gloves": {
+    "Smith Bronze Gloves": {
         "recipe": "1x Bronze Bar",
         "xp": "25 XP",
-        "facility": "Furnace"  
+        "facility": "Anvil"  
     },
-    "Smelt x5 Bronze Arrowheads": {
+    "Smith Bronze Arrowheads": {
         "recipe": "1x Bronze Bar",
         "xp": "25 XP",
-        "facility": "Furnace"
+        "facility": "Anvil",
+        "itemEffects": "Produces 5x Arrowheads"
     },
-    "Smelt Bronze Pickaxe": {
+    "Smith Bronze Pickaxes": {
         "recipe": "1x Bronze Bar",
         "xp": "25 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Hatchet": {
+    "Smith Bronze Hatchets": {
         "recipe": "1x Bronze Bar",
         "xp": "25 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Helm": {
+    "Smith Bronze Helms": {
         "recipe": "1x Bronze Bar",
         "xp": "25 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Scimitar": {
+    "Smith Bronze Scimitars": {
         "recipe": "2x Bronze Bar",
         "xp": "50 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Longsword": {
+    "Smith Bronze Longswords": {
         "recipe": "2x Bronze Bar",
         "xp": "50 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Full Helm": {
+    "Smith Bronze Full Helms": {
         "recipe": "2x Bronze Bar",
         "xp": "50 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Battleaxe": {
+    "Smith Bronze Battleaxes": {
         "recipe": "3x Bronze Bar",
         "xp": "75 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Platelegs": {
+    "Smith Bronze Platelegs": {
         "recipe": "3x Bronze Bar",
         "xp": "75 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Shield": {
+    "Smith Bronze Shields": {
         "recipe": "3x Bronze Bar",
         "xp": "75 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Chainmail Body": {
+    "Smith Bronze Chainmail": {
         "recipe": "3x Bronze Bar",
         "xp": "75 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Great Sword": {
+    "Smith Bronze Greatswords": {
         "recipe": "4x Bronze Bar",
         "xp": "100 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Bronze Chestplate": {
+    "Smith Bronze Chestplates": {
         "recipe": "5x Bronze Bar",
         "xp": "75 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
 
   },
 
     
 
-    "Smelt Iron Gloves": {
+    "Smith Iron Gloves": {
         "recipe": "1x Iron Bar",
         "xp": "35 XP",
-        "facility": "Furnace"  
+        "facility": "Anvil"  
     },
-    "Smelt x5 Iron Arrowheads": {
+    "Smith Iron Arrowheads": {
         "recipe": "1x Iron Bar",
         "xp": "35 XP",
-        "facility": "Furnace"
+        "facility": "Anvil",
+        "itemEffects": "Produces 5x Arrowheads"
     },
-    "Smelt Iron Pickaxe": {
+    "Smith Iron Pickaxes": {
         "recipe": "1x Iron Bar",
         "xp": "35 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Hatchet": {
+    "Smith Iron Hatchets": {
         "recipe": "1x Iron Bar",
         "xp": "35 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Helm": {
+    "Smith Iron Helms": {
         "recipe": "1x Iron Bar",
         "xp": "35 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Scimitar": {
+    "Smith Iron Scimitars": {
         "recipe": "2x Iron Bar",
         "xp": "70 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Longsword": {
+    "Smith Iron Longswords": {
         "recipe": "2x Iron Bar",
         "xp": "70 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Full Helm": {
+    "Smith Iron Full Helms": {
         "recipe": "2x Iron Bar",
         "xp": "70 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Battleaxe": {
+    "Smith Iron Battleaxes": {
         "recipe": "3x Iron Bar",
         "xp": "105 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Platelegs": {
+    "Smith Iron Platelegs": {
         "recipe": "3x Iron Bar",
         "xp": "105 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Shield": {
+    "Smith Iron Shields": {
         "recipe": "3x Iron Bar",
         "xp": "105 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Chainmail Body": {
+    "Smith Iron Chainmail": {
         "recipe": "3x Iron Bar",
         "xp": "105 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Great Sword": {
+    "Smith Iron Greatswords": {
         "recipe": "4x Iron Bar",
         "xp": "140 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Iron Chestplate": {
+    "Smith Iron Chestplates": {
         "recipe": "5x Iron Bar",
         "xp": "175 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
 
   },
 
     
 
-    "Smelt Steel Gloves": {
+    "Smith Steel Gloves": {
         "recipe": "1x Steel Bar",
         "xp": "50 XP",
-        "facility": "Furnace"  
+        "facility": "Anvil"  
     },
-    "Smelt x5 Steel Arrowheads": {
+    "Smith Steel Arrowheads": {
         "recipe": "1x Steel Bar",
         "xp": "50 XP",
-        "facility": "Furnace"
+        "facility": "Anvil",
+        "itemEffects": "Produces 5x Arrowheads"
     },
-    "Smelt Steel Pickaxe": {
+    "Smith Steel Pickaxes": {
         "recipe": "1x Steel Bar",
         "xp": "50 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Hatchet": {
+    "Smith Steel Hatchets": {
         "recipe": "1x Steel Bar",
         "xp": "50 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Helm": {
+    "Smith Steel Helms": {
         "recipe": "1x Steel Bar",
         "xp": "50 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Scimitar": {
+    "Smith Steel Scimitars": {
         "recipe": "2x Steel Bar",
         "xp": "100 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Longsword": {
+    "Smith Steel Longswords": {
         "recipe": "2x Steel Bar",
         "xp": "100 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Full Helm": {
+    "Smith Steel Full Helms": {
         "recipe": "2x Steel Bar",
         "xp": "100 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Battleaxe": {
+    "Smith Steel Battleaxes": {
         "recipe": "3x Steel Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Platelegs": {
+    "Smith Steel Platelegs": {
         "recipe": "3x Steel Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Shield": {
+    "Smith Steel Shields": {
         "recipe": "3x Steel Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Chainmail Body": {
+    "Smith Steel Chainmail": {
         "recipe": "3x Steel Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Great Sword": {
+    "Smith Steel Greatswords": {
         "recipe": "4x Steel Bar",
         "xp": "200 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Steel Chestplate": {
+    "Smith Steel Chestplates": {
         "recipe": "5x Steel Bar",
         "xp": "250 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
 
   },
 
     
 
-    "Smelt Palladium Gloves": {
+    "Smith Palladium Gloves": {
         "recipe": "1x Palladium Bar",
         "xp": "75 XP",
-        "facility": "Furnace"  
+        "facility": "Anvil"  
     },
-    "Smelt x5 Palladium Arrowheads": {
+    "Smith Palladium Arrowheads": {
         "recipe": "1x Palladium Bar",
         "xp": "75 XP",
-        "facility": "Furnace"
+        "facility": "Anvil",
+        "itemEffects": "Produces 5x Arrowheads"
     },
-    "Smelt Palladium Pickaxe": {
+    "Smith Palladium Pickaxes": {
         "recipe": "1x Palladium Bar",
         "xp": "75 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Hatchet": {
+    "Smith Palladium Hatchets": {
         "recipe": "1x Palladium Bar",
         "xp": "75 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Helm": {
+    "Smith Palladium Helms": {
         "recipe": "1x Palladium Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Scimitar": {
+    "Smith Palladium Scimitars": {
         "recipe": "2x Palladium Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Longsword": {
+    "Smith Palladium Longswords": {
         "recipe": "2x Palladium Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Full Helm": {
+    "Smith Palladium Full Helms": {
         "recipe": "2x Palladium Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Battleaxe": {
+    "Smith Palladium Battleaxes": {
         "recipe": "3x Palladium Bar",
         "xp": "225 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Platelegs": {
+    "Smith Palladium Platelegs": {
         "recipe": "3x Palladium Bar",
         "xp": "225 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Shield": {
+    "Smith Palladium Shields": {
         "recipe": "3x Palladium Bar",
         "xp": "225 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Chainmail Body": {
+    "Smith Palladium Chainmail": {
         "recipe": "3x Palladium Bar",
         "xp": "225 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Great Sword": {
+    "Smith Palladium Greatswords": {
         "recipe": "4x Palladium Bar",
         "xp": "300 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Palladium Chestplate": {
+    "Smith Palladium Chestplates": {
         "recipe": "5x Palladium Bar",
         "xp": "375 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
 
   },
 
     
 
-    "Smelt Coronium Gloves": {
+    "Smith Coronium Gloves": {
         "recipe": "1x Coronium Bar",
         "xp": "150 XP",
-        "facility": "Furnace"  
+        "facility": "Anvil"  
     },
-    "Smelt x5 Coronium Arrowheads": {
+    "Smith Coronium Arrowheads": {
         "recipe": "1x Coronium Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil",
+        "itemEffects": "Produces 5x Arrowheads"
+
     },
-    "Smelt Coronium Pickaxe": {
+    "Smith Coronium Pickaxes": {
         "recipe": "1x Coronium Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Hatchet": {
+    "Smith Coronium Hatchets": {
         "recipe": "1x Coronium Bar",
         "xp": "150 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Helm": {
+    "Smith Coronium Helms": {
         "recipe": "1x Coronium Bar",
         "xp": "300 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Scimitar": {
+    "Smith Coronium Scimitars": {
         "recipe": "2x Coronium Bar",
         "xp": "300 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Longsword": {
+    "Smith Coronium Longswords": {
         "recipe": "2x Coronium Bar",
         "xp": "300 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Full Helm": {
+    "Smith Coronium Full Helms": {
         "recipe": "2x Coronium Bar",
         "xp": "300 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Battleaxe": {
+    "Smith Coronium Battleaxes": {
         "recipe": "3x Coronium Bar",
         "xp": "450 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Platelegs": {
+    "Smith Coronium Platelegs": {
         "recipe": "3x Coronium Bar",
         "xp": "450 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Shield": {
+    "Smith Coronium Shields": {
         "recipe": "3x Coronium Bar",
         "xp": "450 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Chainmail Body": {
+    "Smith Coronium Chainmail": {
         "recipe": "3x Coronium Bar",
         "xp": "450 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Great Sword": {
+    "Smith Coronium Greatswords": {
         "recipe": "4x Coronium Bar",
         "xp": "600 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
-    "Smelt Coronium Chestplate": {
+    "Smith Coronium Chestplates": {
         "recipe": "5x Coronium Bar",
         "xp": "750 XP",
-        "facility": "Furnace"
+        "facility": "Anvil"
     },
 
 
+    "Smith Celadon Gloves": {
+        "recipe": "1x Celadium Bar",
+        "xp": "150 XP",
+        "facility": "Anvil"  
+    },
+    "Smith Celadon Arrowheads": {
+        "recipe": "1x Celadium Bar",
+        "xp": "150 XP",
+        "facility": "Anvil",
+        "itemEffects": "Produces 5x Arrowheads"
+    },
+    "Smith Celadon Pickaxes": {
+        "recipe": "1x Celadium Bar",
+        "xp": "150 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Hatchets": {
+        "recipe": "1x Celadium Bar",
+        "xp": "150 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Helms": {
+        "recipe": "1x Celadium Bar",
+        "xp": "300 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Scimitars": {
+        "recipe": "2x Celadium Bar",
+        "xp": "300 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Longswords": {
+        "recipe": "2x Celadium Bar",
+        "xp": "300 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Full Helms": {
+        "recipe": "2x Celadium Bar",
+        "xp": "300 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Battleaxes": {
+        "recipe": "3x Celadium Bar",
+        "xp": "450 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Platelegs": {
+        "recipe": "3x Celadium Bar",
+        "xp": "450 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Shields": {
+        "recipe": "3x Celadium Bar",
+        "xp": "450 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Chainmail": {
+        "recipe": "3x Celadium Bar",
+        "xp": "450 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Greatswords": {
+        "recipe": "4x Celadium Bar",
+        "xp": "600 XP",
+        "facility": "Anvil"
+    },
+    "Smith Celadon Chestplates": {
+        "recipe": "5x Celadium Bar",
+        "xp": "750 XP",
+        "facility": "Anvil"
+    },
 
 
-
-
-
-
+    "Smith Gold Warrior Helms": {
+        "recipe": "2x Gold Bar",
+        "xp": "200 XP",
+        "facility": "Anvil"
+    },
+    "Smith Silver Warrior Helms": {
+        "recipe": "2x Silver Bar",
+        "xp": "120 XP",
+        "facility": "Anvil"
+    },
 
 
 
@@ -640,7 +723,7 @@
     "facility": "Stove or Fire",
 	  "xp": "20 XP"
 },
-"Cook Baked Potato": {
+"Cook Baked Potatoes": {
   "recipe": "Potato",
     "facility": "Stove or Fire",
 	  "xp": "5 XP"
@@ -853,5 +936,407 @@
 "Harvest Mariana Plants": {
     "xp": "240 XP"
 },
+
+
+    "Catch Bass (beachside fishing)": {
+        "xp": "15 XP"
+    },
+    "Catch Bluegill (lake fishing)": {
+        "xp": "20 XP"
+    },
+    "Catch Salmon (river fishing)": {
+        "xp": "30 XP"
+    },
+    "Catch Tuna (ocean fishing)": {
+        "xp": "110 XP"
+  },
+
+     
+
+    "Catch Carp (lake fishing)": {
+        "xp": "40 XP"
+    },
+    "Catch Stingray (beachside fishing)": {
+        "xp": "50 XP"
+    },
+    "Catch Piranha (river fishing)": {
+        "xp": "60 XP"
+    },
+    "Catch Marlin (ocean fishing)": {
+        "xp": "115 XP"
+   
+  },
+
+     
+
+    "Catch Walleye (lake fishing)": {
+        "xp": "75 XP"
+    },
+    "Catch Crab (beachside fishing)": {
+        "xp": "105 XP"
+    },
+    "Catch Koi (river fishing)": {
+        "xp": "110 XP"
+    },
+    "Catch Whaleshark (ocean fishing)": {
+        "xp": "150 XP"
+
+   
+  },
+
+     
+
+    "Catch Frog (lake fishing)": {
+        "xp": "111 XP"
+    },
+    "Catch Turtle (river fishing)": {
+        "xp": "130 XP"
+    },
+    "Catch Clownfish (beachside fishing)": {
+        "xp": "225 XP"
+    },
+    "Catch Octopus (ocean fishing)": {
+        "xp": "175 XP"
+    },
+
+
+
+    "Craft Leather Gloves": {
+        "recipe": "1x Leather",
+        "xp": "15 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Leather Bracers": {
+        "recipe": "1x Leather",
+        "xp": "15 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Leather Boots": {
+        "recipe": "1x Leather",
+        "xp": "20 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Leather Chaps": {
+        "recipe": "2x Leather",
+        "xp": "30 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Leather Body Armour": {
+        "recipe": "3x Leather",
+        "xp": "45 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Plains Dragonleather Bracers": {
+        "recipe": "1x Plains Dragonleather",
+        "xp": "60 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Plains Dragonleather Chaps": {
+        "recipe": "2x Plains Dragonleather",
+        "xp": "120 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Water Dragonleather Bracers": {
+        "recipe": "1x Water Dragonleather",
+        "xp": "75 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Water Dragonleather Chaps": {
+        "recipe": "2x Water Dragonleather",
+        "xp": "150 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Fire Dragonleather Bracers": {
+        "recipe": "1x Fire Dragonleather",
+        "xp": "90 XP",
+        "facility": "Crafting Table"
+    },
+    "Craft Fire Dragonleather Chaps": {
+        "recipe": "2x Fire Dragonleather",
+        "xp": "180 XP",
+        "facility": "Crafting Table"
+    },
+
+    "Craft Arrow Shafts": {
+        "recipe": "Logs",
+        "xp": "5 XP",
+        "tool": "Knife"
+    },
+    "Craft Headless Arrows": {
+        "recipe": "5x Feathers + 5x Arrow Shafts",
+        "xp": "5 XP"
+    },
+    "Craft Bronze Arrows": {
+        "recipe": "5x Headless Arrows + 5x Bronze Arrowheads",
+        "xp": "25 XP"
+    },
+    "Craft Iron Arrows": {
+        "recipe": "5x Headless Arrows + 5x Iron Arrowheads",
+        "xp": "50 XP"
+    },
+    "Craft Steel Arrows": {
+        "recipe": "5x Headless Arrows + 5x Steel Arrowheads",
+        "xp": "75 XP"
+    },
+    "Craft Palladium Arrows": {
+        "recipe": "5x Headless Arrows + 5x Palladium Arrowheads",
+        "xp": "100 XP"
+    },
+    "Craft Coronium Arrows": {
+        "recipe": "5x Headless Arrows + 5x Coronium Arrowheads",
+        "xp": "125 XP"
+    },
+    "Craft Celadon Arrows": {
+        "recipe": "5x Headless Arrows + 5x Celadon Arrowheads",
+        "xp": "150 XP"
+    },
+
+
+    "Craft Unstrung Bows": {
+        "recipe": "Logs",
+        "xp": "10 XP",
+        "tool": "Knife"
+    },
+    "Craft Unstrung Pine Bows": {
+        "recipe": "Pine Logs",
+        "xp": "20 XP",
+        "tool": "Knife"
+    },
+    "Craft Unstrung Oak Bows": {
+        "recipe": "Oak Logs",
+        "xp": "35 XP",
+        "tool": "Knife"
+    },
+    "Craft Unstrung Palm Bows": {
+        "recipe": "Palm Logs",
+        "xp": "50 XP",
+        "tool": "Knife"
+    },
+    "Craft Unstrung Cherry Bows": {
+        "recipe": "Cherry Logs",
+        "xp": "75 XP",
+        "tool": "Knife"
+    },
+    "Craft Unstrung Wizard's Bows": {
+        "recipe": "Wizard Logs",
+        "xp": "90 XP",
+        "tool": "Knife"
+    },
+    "Craft Unstrung Deadwood Bows": {
+        "recipe": "Deadwood Logs",
+        "xp": "120 XP",
+        "tool": "Knife"
+    },
+
+
+    "Craft Wooden Bows": {
+        "recipe": "String + Unstrung Bow",
+        "xp": "10 XP"
+    },
+    "Craft Pine Bows": {
+        "recipe": "String + Unstrung Pine Bow",
+        "xp": "20 XP"
+    },
+    "Craft Oak Bows": {
+        "recipe": "String + Unstrung Oak Bow",
+        "xp": "35 XP"
+    },
+    "Craft Palm Bows": {
+        "recipe": "String + Unstrung Palm Bow",
+        "xp": "50 XP"
+    },
+    "Craft Cherry Bows": {
+        "recipe": "String + Unstrung Cherry Bow",
+        "xp": "75 XP"
+    },
+    "Craft Wizard's Bows": {
+        "recipe": "String + Unstrung Wizard's Bow",
+        "xp": "90 XP"
+    },
+    "Craft Deadwood Bows": {
+        "recipe": "String + Unstrung Deadwood Bow",
+        "xp": "120 XP"
+    },
+
+
+    "Cut Amethyst Gems": {
+        "recipe": "Rough Amethyst",
+        "xp": "40 XP",
+        "tool": "Chisel"
+    },
+    "Cut Sapphire Gems": {
+        "recipe": "Rough Sapphire",
+        "xp": "50 XP",
+        "tool": "Chisel"
+    },
+    "Cut Emerald Gems": {
+        "recipe": "Rough Emerald",
+        "xp": "75 XP",
+        "tool": "Chisel"
+    },
+    "Cut Topaz Gems": {
+        "recipe": "Rough Topaz",
+        "xp": "125 XP",
+        "tool": "Chisel"
+    },
+    "Cut Citrine Gems": {
+        "recipe": "Rough Citrine",
+        "xp": "175 XP",
+        "tool": "Chisel"
+    },
+    "Cut Ruby Gems": {
+        "recipe": "Rough Ruby",
+        "xp": "250 XP",
+        "tool": "Chisel"
+    },
+    "Cut Diamond Gems": {
+        "recipe": "Rough Diamond",
+        "xp": "350 XP",
+        "tool": "Chisel"
+    },
+    "Cut Carbonado Gems": {
+        "recipe": "Rough Carbonado",
+        "xp": "500 XP",
+        "tool": "Chisel"
+    },
+
+
+
+    "Craft Monk's Necklaces": {
+        "recipe": "Silver Bar + Monk's Necklace Mould",
+        "xp": "40 XP",
+        "facility": "Kiln"
+    },
+    "Craft Amethyst Necklaces": {
+        "recipe": "Silver Bar + Amethyst Gem + Necklace Mould",
+        "xp": "25 XP",
+        "facility": "Kiln"
+    },
+    "Craft Sapphire Necklaces": {
+        "recipe": "Silver Bar + Sapphire Gem + Necklace Mould",
+        "xp": "50 XP",
+        "facility": "Kiln"
+    },
+    "Craft Emerald Necklaces": {
+        "recipe": "Silver Bar + Emerald Gem + Necklace Mould",
+        "xp": "75 XP",
+        "facility": "Kiln"
+    },
+    "Craft Topaz Necklaces": {
+        "recipe": "Silver Bar + Topaz Gem + Necklace Mould",
+        "xp": "125 XP",
+        "facility": "Kiln"
+    },
+    "Craft Citrine Necklaces": {
+        "recipe": "Silver Bar + Citrine Gem + Necklace Mould",
+        "xp": "175 XP",
+        "facility": "Kiln"
+    },
+    "Craft Ruby Necklaces": {
+        "recipe": "Silver Bar + Ruby Gem + Necklace Mould",
+        "xp": "250 XP",
+        "facility": "Kiln"
+    },
+    "Craft Diamond Necklaces": {
+        "recipe": "Silver Bar + Diamond Gem + Necklace Mould",
+        "xp": "350 XP",
+        "facility": "Kiln"
+    },
+    "Craft Carbonado Necklaces": {
+        "recipe": "Silver Bar + Carbonado Gem + Necklace Mould",
+        "xp": "500 XP",
+        "facility": "Kiln"
+    },
+
+
+    "Craft Gold Amethyst Necklaces": {
+        "recipe": "Gold Bar + Amethyst Gem + Necklace Mould",
+        "xp": "250 XP",
+        "facility": "Kiln"
+    },
+    "Craft Gold Sapphire Necklaces": {
+        "recipe": "Gold Bar + Sapphire Gem + Necklace Mould",
+        "xp": "300 XP",
+        "facility": "Kiln"
+    },
+    "Craft Gold Emerald Necklaces": {
+        "recipe": "Gold Bar + Emerald Gem + Necklace Mould",
+        "xp": "350 XP",
+        "facility": "Kiln"
+    },
+    "Craft Gold Topaz Necklaces": {
+        "recipe": "Gold Bar + Topaz Gem + Necklace Mould",
+        "xp": "400 XP",
+        "facility": "Kiln"
+    },
+    "Craft Gold Citrine Necklaces": {
+        "recipe": "Gold Bar + Citrine Gem + Necklace Mould",
+        "xp": "450 XP",
+        "facility": "Kiln"
+    },
+    "Craft Gold Ruby Necklaces": {
+        "recipe": "Gold Bar + Ruby Gem + Necklace Mould",
+        "xp": "500 XP",
+        "facility": "Kiln"
+    },
+    "Craft Gold Diamond Necklaces": {
+        "recipe": "Gold Bar + Diamond Gem + Necklace Mould",
+        "xp": "550 XP",
+        "facility": "Kiln"
+    },
+    "Craft Gold Carbonado Necklaces": {
+        "recipe": "Gold Bar + Carbonado Gem + Necklace Mould",
+        "xp": "600 XP",
+        "facility": "Kiln"
+    },
+
+    "Spin String": {
+        "recipe": "Flax",
+        "xp": "8 XP",
+        "facility": "Spinning Wheel"
+    },
+
+
+
+    "Carve Scrolls": {
+        "recipe": "Logs",
+        "xp": "15 XP",
+        "tool": "Chisel"
+    },
+    "Carve Pine Scrolls": {
+        "recipe": "Pine Logs",
+        "xp": "25 XP",
+        "tool": "Chisel"
+    },
+    "Carve Oak Scrolls": {
+        "recipe": "Oak Logs",
+        "xp": "40 XP",
+        "tool": "Chisel"
+    },
+    "Carve Palm Scrolls": {
+        "recipe": "Palm Logs",
+        "xp": "65 XP",
+        "tool": "Chisel"
+    },
+    "Carve Sakura Scrolls": {
+        "recipe": "Sakura Logs",
+        "xp": "90 XP",
+        "tool": "Chisel"
+    },
+    "Carve Wizard Scrolls": {
+        "recipe": "Wizard Logs",
+        "xp": "120 XP",
+        "tool": "Chisel"
+    },
+    "Carve Lucky Scrolls": {
+        "recipe": "Lucky Logs",
+        "xp": "80 XP",
+        "tool": "Chisel"
+    },
+    "Carve Deadwood Scrolls": {
+        "recipe": "Deadwood Logs",
+        "xp": "135 XP",
+        "tool": "Chisel"
+    }
 
 }
