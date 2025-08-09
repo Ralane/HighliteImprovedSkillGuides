@@ -60,7 +60,7 @@
         "itemEffects": "10% boost to Magic level"
     },
 
-    
+
 
     "Smelt Bronze Bars": {
         "recipe": "Copper Ore + Tin Ore",
@@ -102,5 +102,756 @@
         "recipe": "1x Celadium Ore + 8x Coal",
         "xp": "300 XP",
         "facility": "Furnace"
-    }
+    },
+
+
+    "Smelt Bronze Gloves": {
+        "recipe": "1x Bronze Bar",
+        "xp": "25 XP",
+        "facility": "Furnace"  
+    },
+    "Smelt x5 Bronze Arrowheads": {
+        "recipe": "1x Bronze Bar",
+        "xp": "25 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Pickaxe": {
+        "recipe": "1x Bronze Bar",
+        "xp": "25 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Hatchet": {
+        "recipe": "1x Bronze Bar",
+        "xp": "25 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Helm": {
+        "recipe": "1x Bronze Bar",
+        "xp": "25 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Scimitar": {
+        "recipe": "2x Bronze Bar",
+        "xp": "50 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Longsword": {
+        "recipe": "2x Bronze Bar",
+        "xp": "50 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Full Helm": {
+        "recipe": "2x Bronze Bar",
+        "xp": "50 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Battleaxe": {
+        "recipe": "3x Bronze Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Platelegs": {
+        "recipe": "3x Bronze Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Shield": {
+        "recipe": "3x Bronze Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Chainmail Body": {
+        "recipe": "3x Bronze Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Great Sword": {
+        "recipe": "4x Bronze Bar",
+        "xp": "100 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Bronze Chestplate": {
+        "recipe": "5x Bronze Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"
+
+  },
+
+    
+
+    "Smelt Iron Gloves": {
+        "recipe": "1x Iron Bar",
+        "xp": "35 XP",
+        "facility": "Furnace"  
+    },
+    "Smelt x5 Iron Arrowheads": {
+        "recipe": "1x Iron Bar",
+        "xp": "35 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Pickaxe": {
+        "recipe": "1x Iron Bar",
+        "xp": "35 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Hatchet": {
+        "recipe": "1x Iron Bar",
+        "xp": "35 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Helm": {
+        "recipe": "1x Iron Bar",
+        "xp": "35 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Scimitar": {
+        "recipe": "2x Iron Bar",
+        "xp": "70 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Longsword": {
+        "recipe": "2x Iron Bar",
+        "xp": "70 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Full Helm": {
+        "recipe": "2x Iron Bar",
+        "xp": "70 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Battleaxe": {
+        "recipe": "3x Iron Bar",
+        "xp": "105 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Platelegs": {
+        "recipe": "3x Iron Bar",
+        "xp": "105 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Shield": {
+        "recipe": "3x Iron Bar",
+        "xp": "105 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Chainmail Body": {
+        "recipe": "3x Iron Bar",
+        "xp": "105 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Great Sword": {
+        "recipe": "4x Iron Bar",
+        "xp": "140 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Iron Chestplate": {
+        "recipe": "5x Iron Bar",
+        "xp": "175 XP",
+        "facility": "Furnace"
+
+  },
+
+    
+
+    "Smelt Steel Gloves": {
+        "recipe": "1x Steel Bar",
+        "xp": "50 XP",
+        "facility": "Furnace"  
+    },
+    "Smelt x5 Steel Arrowheads": {
+        "recipe": "1x Steel Bar",
+        "xp": "50 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Pickaxe": {
+        "recipe": "1x Steel Bar",
+        "xp": "50 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Hatchet": {
+        "recipe": "1x Steel Bar",
+        "xp": "50 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Helm": {
+        "recipe": "1x Steel Bar",
+        "xp": "50 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Scimitar": {
+        "recipe": "2x Steel Bar",
+        "xp": "100 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Longsword": {
+        "recipe": "2x Steel Bar",
+        "xp": "100 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Full Helm": {
+        "recipe": "2x Steel Bar",
+        "xp": "100 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Battleaxe": {
+        "recipe": "3x Steel Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Platelegs": {
+        "recipe": "3x Steel Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Shield": {
+        "recipe": "3x Steel Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Chainmail Body": {
+        "recipe": "3x Steel Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Great Sword": {
+        "recipe": "4x Steel Bar",
+        "xp": "200 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Steel Chestplate": {
+        "recipe": "5x Steel Bar",
+        "xp": "250 XP",
+        "facility": "Furnace"
+
+  },
+
+    
+
+    "Smelt Palladium Gloves": {
+        "recipe": "1x Palladium Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"  
+    },
+    "Smelt x5 Palladium Arrowheads": {
+        "recipe": "1x Palladium Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Pickaxe": {
+        "recipe": "1x Palladium Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Hatchet": {
+        "recipe": "1x Palladium Bar",
+        "xp": "75 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Helm": {
+        "recipe": "1x Palladium Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Scimitar": {
+        "recipe": "2x Palladium Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Longsword": {
+        "recipe": "2x Palladium Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Full Helm": {
+        "recipe": "2x Palladium Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Battleaxe": {
+        "recipe": "3x Palladium Bar",
+        "xp": "225 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Platelegs": {
+        "recipe": "3x Palladium Bar",
+        "xp": "225 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Shield": {
+        "recipe": "3x Palladium Bar",
+        "xp": "225 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Chainmail Body": {
+        "recipe": "3x Palladium Bar",
+        "xp": "225 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Great Sword": {
+        "recipe": "4x Palladium Bar",
+        "xp": "300 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Palladium Chestplate": {
+        "recipe": "5x Palladium Bar",
+        "xp": "375 XP",
+        "facility": "Furnace"
+
+  },
+
+    
+
+    "Smelt Coronium Gloves": {
+        "recipe": "1x Coronium Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"  
+    },
+    "Smelt x5 Coronium Arrowheads": {
+        "recipe": "1x Coronium Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Pickaxe": {
+        "recipe": "1x Coronium Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Hatchet": {
+        "recipe": "1x Coronium Bar",
+        "xp": "150 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Helm": {
+        "recipe": "1x Coronium Bar",
+        "xp": "300 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Scimitar": {
+        "recipe": "2x Coronium Bar",
+        "xp": "300 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Longsword": {
+        "recipe": "2x Coronium Bar",
+        "xp": "300 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Full Helm": {
+        "recipe": "2x Coronium Bar",
+        "xp": "300 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Battleaxe": {
+        "recipe": "3x Coronium Bar",
+        "xp": "450 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Platelegs": {
+        "recipe": "3x Coronium Bar",
+        "xp": "450 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Shield": {
+        "recipe": "3x Coronium Bar",
+        "xp": "450 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Chainmail Body": {
+        "recipe": "3x Coronium Bar",
+        "xp": "450 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Great Sword": {
+        "recipe": "4x Coronium Bar",
+        "xp": "600 XP",
+        "facility": "Furnace"
+    },
+    "Smelt Coronium Chestplate": {
+        "recipe": "5x Coronium Bar",
+        "xp": "750 XP",
+        "facility": "Furnace"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Enchant Water Scrolls": {
+        "recipe": "Scroll",
+        "xp": "5 XP",
+        "facility": "Water Obelisk"
+    },
+    "Enchant Nature Scrolls": {
+        "recipe": "Scroll",
+        "xp": "6 XP",
+        "facility": "Nature Obelisk"
+    },
+    "Enchant Fire Scrolls": {
+        "recipe": "Scroll",
+        "xp": "8 XP",
+        "facility": "Fire Obelisk"
+    },
+    "Enchant Fury Scrolls": {
+        "recipe": "Pine Scroll",
+        "xp": "9 XP",
+        "facility": "Fury Obelisk"
+    },
+    "Enchant Energy Scrolls": {
+        "recipe": "Palm Scroll",
+        "xp": "10 XP",
+        "facility": "Energy Obelisk"
+    },
+    "Enchant Rage Scrolls": {
+        "recipe": "Oak Scroll",
+        "xp": "11 XP",
+        "facility": "Rage Obelisk"
+    },
+    "Enchant Alchemy Scrolls": {
+        "recipe": "Lucky Scroll",
+        "xp": "12 XP",
+        "facility": "Golden Obelisk"
+    },
+    "Enchant Warp Scrolls": {
+        "recipe": "Sakura Scroll",
+        "xp": "14 XP",
+        "facility": "Portal Obelisk"
+    },
+    "Enchant Magic Scrolls": {
+        "recipe": "Wizard Scroll",
+        "xp": "15 XP",
+        "facility": "Wizard's Obelisk"
+    },
+    "Enchant Blood Scrolls": {
+        "recipe": "Deadwood Scroll",
+        "xp": "17 XP",
+        "facility": "Blood Obelisk"
+    },
+
+    
+
+"Cook Bass": {
+  "recipe": "Raw Bass",
+  "facility": "Stove or Fire",
+  "xp": "20 XP"
+},
+"Cook Bluegill": {
+  "recipe": "Raw Bluegill",
+    "facility": "Stove or Fire",
+	  "xp": "25 XP"
+},
+"Cook Salmon": {
+  "recipe": "Raw Salmon",
+    "facility": "Stove or Fire",
+  "xp": "35 XP"
+},
+"Cook Carp": {
+  "recipe": "Raw Carp",
+  "facility": "Stove or Fire",
+    "xp": "40 XP"
+},
+"Cook Stingray": {
+  "recipe": "Raw Stingray",
+    "facility": "Stove or Fire",
+  "xp": "50 XP"
+},
+"Cook Piranha": {
+  "recipe": "Raw Piranha",
+  "facility": "Stove or Fire",
+    "xp": "65 XP"
+
+},
+"Cook Walleye": {
+  "recipe": "Raw Walleye",
+  "facility": "Stove or Fire",
+    "xp": "85 XP"
+},
+"Cook Crab": {
+  "recipe": "Raw Crab",
+  "facility": "Stove or Fire",
+    "xp": "100 XP"
+},
+"Cook Koi": {
+  "recipe": "Raw Koi",
+    "facility": "Stove or Fire",
+	  "xp": "110 XP"
+},
+"Cook Tuna": {
+  "recipe": "Raw Tuna",
+    "facility": "Stove or Fire",
+	  "xp": "110 XP"
+},
+"Cook Marlin": {
+  "recipe": "Raw Marlin",
+    "facility": "Stove or Fire",
+	  "xp": "120 XP"
+},
+"Cook Frog": {
+  "recipe": "Raw Frog",
+    "facility": "Stove or Fire",
+	  "xp": "125 XP"
+},
+"Cook Turtle": {
+  "recipe": "Raw Turtle",
+    "facility": "Stove or Fire",
+	  "xp": "150 XP"
+},
+"Cook Clownfish": {
+  "recipe": "Raw Clownfish",
+    "facility": "Stove or Fire",
+	  "xp": "20 XP"
+},
+"Cook Whaleshark": {
+  "recipe": "Raw Whaleshark",
+    "facility": "Stove or Fire",
+	  "xp": "175 XP"
+},
+"Cook Octopus": {
+  "recipe": "Raw Octopus",
+    "facility": "Stove or Fire",
+	  "xp": "190 XP"
+},
+"Cook Rodent Meat": {
+  "recipe": "Raw Rodent Meat",
+    "facility": "Stove or Fire",
+	  "xp": "10 XP"
+},
+"Cook Chicken": {
+  "recipe": "Raw Chicken",
+    "facility": "Stove or Fire",
+	  "xp": "15 XP"
+},
+"Cook Steak": {
+  "recipe": "Raw Beef",
+    "facility": "Stove or Fire",
+	  "xp": "15 XP"
+},
+"Cook Game Meat": {
+  "recipe": "Raw Game Meat",
+    "facility": "Stove or Fire",
+	  "xp": "20 XP"
+},
+"Cook Baked Potato": {
+  "recipe": "Potato",
+    "facility": "Stove or Fire",
+	  "xp": "5 XP"
+},
+"Cook Grilled Corn": {
+  "recipe": "Corn",
+    "facility": "Stove or Fire",
+	  "xp": "10 XP"
+},
+
+"Pickpocket Men": {
+    "xp": "10 XP"
+},
+"Pickpocket Fishermen": {
+    "xp": "12 XP"
+},
+"Pickpocket Lumberjacks": {
+    "xp": "14 XP"
+},
+"Pickpocket Farmers": {
+    "xp": "16 XP"
+},
+"Pickpocket Guards (Lv 10)": {
+    "xp": "20 XP"
+},
+"Pickpocket Guards (Lv 18)": {
+    "xp": "30 XP"
+},
+"Pickpocket Dwarves": {
+    "xp": "40 XP"
+},
+"Pickpocket Squires": {
+    "xp": "45 XP"
+},
+"Pickpocket Knights (Lv 45)": {
+    "xp": "65 XP"
+},
+"Pickpocket Wizards (Lv 16)": {
+    "xp": "80 XP"
+},
+"Pickpocket Knights (Lv 60)": {
+    "xp": "125 XP"
+},
+"Pickpocket Gnomes": {
+    "xp": "150 XP"
+},
+"Pickpocket Wizards (Lv 40)": {
+    "xp": "200 XP"
+},
+"Pickpocket Elves": {
+    "xp": "225 XP"
+},
+"Pickpocket Elder Knights": {
+    "xp": "270 XP"
+},
+
+"Picklock Coin Chests": {
+    "xp": "15 XP"
+},
+"Picklock Goblin Chests": {
+    "xp": "40 XP"
+},
+"Picklock Deluxe Coin Chests": {
+    "xp": "150 XP"
+},
+"Picklock the Goblin Hut Chest": {
+    "xp": "0 XP"
+},
+"Picklock Dwarven Chests": {
+    "xp": "200 XP"
+},
+"Picklock Precious Metals Chests": {
+    "xp": "250 XP"
+},
+"Picklock Gem Chests": {
+    "xp": "300 XP"
+},
+"Picklock the Portal Obelisk Chest": {
+    "xp": "400 XP"
+},
+"Picklock Sage's Chests": {
+    "xp": "300 XP"
+},
+"Picklock Wasteland Chests": {
+    "xp": "450 XP"
+},
+
+
+"Mine Copper Rocks": {
+    "xp": "20 XP"
+},
+"Mine Tin Rocks": {
+    "xp": "20 XP"
+},
+"Mine Iron Rocks": {
+    "xp": "30 XP"
+},
+"Mine Coal Rocks": {
+    "xp": "60 XP"
+},
+"Mine Silver Rocks": {
+    "xp": "75 XP"
+},
+"Mine Palladium Rocks": {
+    "xp": "150 XP"
+},
+"Mine Gold Rocks": {
+    "xp": "150 XP"
+},
+"Mine Coronium Rocks": {
+    "xp": "300 XP"
+},
+"Mine Celadium Rocks": {
+    "xp": "600 XP"
+},
+
+
+
+"Chop Trees": {
+    "xp": "20 XP"
+},
+"Chop Pine Trees": {
+    "xp": "50 XP"
+},
+"Chop Oak Trees": {
+    "xp": "100 XP"
+},
+"Chop Palm Trees": {
+    "xp": "150 XP"
+},
+"Chop Cherry Blossoms": {
+    "xp": "225 XP"
+},
+"Chop Money Trees": {
+    "xp": "80 XP"
+},
+"Chop Wizard's Trees": {
+    "xp": "265 XP"
+},
+"Chop Deadwood Trees": {
+    "xp": "300 XP"
+},
+
+"Harvest Flax": {
+    "xp": "10 XP"
+},
+"Harvest Potatoes": {
+    "xp": "10 XP"
+},
+"Harvest Wheat": {
+    "xp": "15 XP"
+},
+"Harvest Carrots": {
+    "xp": "20 XP"
+},
+"Harvest Corn": {
+    "xp": "25 XP"
+},
+"Harvest Aruba Plants": {
+    "xp": "60 XP"
+},
+"Harvest Tomatoes": {
+    "xp": "40 XP"
+},
+"Harvest Fiji Plants": {
+    "xp": "80 XP"
+},
+"Harvest Onions": {
+    "xp": "60 XP"
+},
+"Harvest Sardinian Plants": {
+    "xp": "100 XP"
+},
+"Harvest Mushrooms": {
+    "xp": "80 XP"
+},
+"Harvest Strawberries": {
+    "xp": "80 XP"
+},
+"Harvest Maui Plants": {
+    "xp": "120 XP"
+},
+"Harvest Watermelons": {
+    "xp": "110 XP"
+},
+"Harvest Grenada Plants": {
+    "xp": "140 XP"
+},
+"Harvest Tonga Plants": {
+    "xp": "160 XP"
+},
+"Harvest Pumpkins": {
+    "xp": "150 XP"
+},
+"Harvest Nauru Plants": {
+    "xp": "180 XP"
+},
+"Harvest Samoan Plants": {
+    "xp": "200 XP"
+},
+"Harvest Grapes": {
+    "xp": "180 XP"
+},
+"Harvest Vanua Plants": {
+    "xp": "220 XP"
+},
+"Harvest Roses": {
+    "xp": "200 XP"
+},
+"Harvest Mariana Plants": {
+    "xp": "240 XP"
+},
+
 }

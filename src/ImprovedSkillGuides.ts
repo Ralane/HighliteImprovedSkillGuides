@@ -34,6 +34,13 @@ export default class ImprovedSkillGuides extends Plugin {
             callback: () => {},
         };
 
+        this.settings.showTool = {
+            text: "Show Tool",
+            type: SettingsTypes.checkbox,
+            value: true,
+            callback: () => {},
+        };
+
         this.settings.showFacility = {
             text: "Show Facility",
             type: SettingsTypes.checkbox,
@@ -81,6 +88,8 @@ export default class ImprovedSkillGuides extends Plugin {
                     // this.log("Skipping XP");
                 } else if(line[0] === "facility" && !this.settings.showFacility.value) {
                     // this.log("Skipping Facility");
+                } else if(line[0] === "tool" && !this.settings.showTool.value) {
+                    // this.log("Skipping Tool");
                 } else if(line[0] === "itemEffects" && !this.settings.showItemEffects.value) {
                     // this.log("Skipping Item Effects");
                 } else {
