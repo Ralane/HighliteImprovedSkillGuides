@@ -1594,7 +1594,8 @@
     "Carve Deadwood Scrolls": {
         "recipe": "Deadwood Logs",
         "xp": "135 XP",
-        "tool": "Chisel"357
+        "tool": "Chisel",
+        "itemID": 357
     }
 
 }
