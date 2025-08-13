@@ -1596,6 +1596,31 @@
         "xp": "135 XP",
         "tool": "Chisel",
         "itemID": 357
+    },
+
+    "Shake Trees": {
+        "xp": "0 XP"
+    },
+        "Shake Pine Trees": {
+        "xp": "0 XP"
+    },
+        "Shake Oak Trees": {
+        "xp": "0 XP"
+    },
+        "Shake Palm Trees": {
+        "xp": "0 XP"
+    },
+        "Shake Cherry Blossoms": {
+        "xp": "0 XP"
+    },
+        "Shake Money Trees": {
+        "xp": "0 XP"
+    },
+    "Shake Wizard's Trees": {
+        "xp": "0 XP"
+    },
+    "Shake Deadwood Trees": {
+        "xp": "0 XP"
     }
 
 }
