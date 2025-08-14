@@ -1046,7 +1046,8 @@
 },
 "Harvest Tomatoes": {
     "xp": "40 XP",
-    "itemID": 101
+    "itemID": 101,
+    "itemEffects": "Currently, no harvestable Tomato plant exists in-game."
 },
 "Harvest Fiji Plants": {
     "xp": "80 XP",
@@ -1098,7 +1099,8 @@
 },
 "Harvest Grapes": {
     "xp": "180 XP",
-    "itemID": 106
+    "itemID": 106,
+    "itemEffects": "Currently, no harvestable Grape plant exists in-game."
 },
 "Harvest Vanua Plants": {
     "xp": "220 XP",
@@ -1106,7 +1108,8 @@
 },
 "Harvest Roses": {
     "xp": "200 XP",
-    "itemID": 107
+    "itemID": 107,
+    "itemEffects": "Currently, no harvestable Rose plant exists in-game."
 },
 "Harvest Mariana Plants": {
     "xp": "240 XP",
@@ -1637,6 +1640,776 @@
         "xp": "0 XP",
         "itemID": 219,
         "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'."
+    },
+
+    "Equip Champion's Cape (with 50 Strength and 50 Defense)": {
+        "itemID": 441
+    },
+
+    "Equip Champion's Cape (with 50 Accuracy and 50 Strength)": {
+        "itemID": 441
+    },
+    
+    "Equip Champion's Cape (with 50 Accuracy and 50 Defense)": {
+        "itemID": 441
+    },
+
+    "Equip Barbarian Armour (with 10 Strength)": {
+        "itemID": 242
+    },
+        
+    "Equip Barbarian Armour (with 10 Defense)": {
+        "itemID": 242
+    },
+
+    "Equip Black Leather Gloves": {
+        "itemID": 137
+    },
+
+    "Equip Knight's Cape": {
+        "itemID": 438
+    },
+
+    "Equip Blue Wizard's Bottoms": {
+        "itemID": 212 
+    },
+
+    "Equip Blue Wizard's Tops": {
+        "itemID": 211
+    },
+
+    "Equip Blue Wizard's Hats": {
+        "itemID": 213 
+    },
+
+    "Equip Blue Wizard's Gloves": {
+        "itemID": 478 
+    },
+
+    "Equip Blue Wizard's Boots": {
+        "itemID": 500
+    },
+
+    "Equip Staff of Fire": {
+        "itemID": 435,
+        "itemEffects": "AKA Ember Staff. Provides unlimited Fire Scrolls when equipped."
+    },
+
+    "Equip Staff of Water": {
+        "itemID": 436,
+        "itemEffects": "AKA Hydro Staff. Provides unlimited Water Scrolls when equipped."
+    },
+
+    "Equip Staff of Nature": {
+        "itemID": 437,
+        "itemEffects": "AKA Forest Staff. Provides unlimited Nature Scrolls when equipped."
+    },
+
+
+
+
+    "Equip Blood Robe Bottoms": {
+        "itemID": 217 
+    },
+
+    "Equip Blood Robe Tops": {
+        "itemID": 217
+    },
+
+    "Equip Blood Hats": {
+        "itemID": 219 
+    },
+
+    "Equip Blood Gloves": {
+        "itemID": 479 
+    },
+
+    "Equip Blood Hood": {
+        "itemID": 307
+    },
+
+
+    "Equip Magician's Cape": {
+        "itemID": 439
+    },
+
+    "Equip Damogui's Staff": {
+        "itemID": 487
+    },
+
+
+
+
+    "Equip Archer's Gloves": {
+        "itemID": 480
+    },
+
+    "Equip Archer's Boots": {
+        "itemID": 501
+    },
+
+    "Equip Archer's Cape": {
+        "itemID": 440
+    },
+
+    "Equip Helmet of Melee": {
+        "itemID": 241
+    },
+    "Equip Helmet of Ranging": {
+        "itemID": 311
+    },
+
+    "Equip Helmet of Magic": {
+        "itemID": 312
+    },
+
+    "Equip Black Leather Gloves (with 10 Strength)": {
+        "itemID": 137
+    },
+
+    "Equip Silver-Plated Coronium Gloves": {
+        "itemID": 256
+    },
+    "Equip Gold-Plated Coronium Gloves": {
+        "itemID": 257
+    },
+
+    "Equip Silver-Plated Celadon Gloves": {
+        "itemID": 465
+    },
+    "Equip Gold-Plated Celadon Gloves": {
+        "itemID": 474
+    },
+
+    "Equip Legendary Gloves": {
+        "itemID": 510
+    },
+
+
+    "Giant's Milk (Heals 5 HP)": {
+        "itemID": 165
+    },
+
+    "Calcium Brew (Heals 5 HP)": {
+        "itemID": 169
+    },
+
+    "Rodent Meat (Heals 2 HP)": { "itemID": 240 },
+    "Baked Potato (Heals 2 HP)": { "itemID": 289 },
+    "Carrot (Heals 2 HP)": { "itemID": 287},
+    "Clownfish (Heals 2 HP)": { "itemID": 16 },
+    "Chicken (Heals 3 HP)": { "itemID": 238 },
+    "Bass (Heals 3 HP)": { "itemID": 3 },
+    "Bluegill (Heals 3 HP)": { "itemID": 5 },
+    "Grilled Corn (Heals 3 HP)": { "itemID": 290 },
+    "Steak (Heals 4 HP)": { "itemID": 234 },
+    "Game Meat (Heals 5 HP)": { "itemID": 322 },
+    "Salmon (Heals 5 HP)": { "itemID": 26 },
+    "Carp (Heals 6 HP)": { "itemID": 34 },
+    "Stingray (Heals 6 HP)": { "itemID": 12 },
+    "Piranha (Heals 6 HP)": { "itemID": 28 },
+    "Koi (Heals 8 HP)": { "itemID": 30 },
+    "Walleye (Heals 9 HP)": { "itemID": 36 },
+    "Crab (Heals 10 HP)": { "itemID": 14 },
+    "Frog (Heals 11 HP)": { "itemID": 38 },
+    "Tuna (Heals 12 HP)": { "itemID": 22 },
+    "Marlin (Heals 14 HP)": { "itemID": 18 },
+    "Turtle (Heals 15 HP)": { "itemID": 32,
+        "itemEffects": "Leaves behind an Empty Turtle Shell"
+},
+    "Whaleshark (Heals 20 HP)": { "itemID": 20 },
+    "Octopus (Heals 22 HP)": { "itemID": 24 },
+
+    
+    "Equip Bronze Gloves": {
+        
+            "itemID": 92
+    },
+    "Equip Bronze Arrows": {
+        
+        
+        
+        
+        "itemID": 328
+    },
+    "Equip Bronze Pickaxes": {
+        
+        
+        
+        "itemID": 73
+    },
+    "Equip Bronze Hatchets": {
+        
+        
+        
+        "itemID": 314
+    },
+    "Equip Bronze Helms": {
+        
+        
+        
+        "itemID": 52
+    },
+    "Equip Bronze Scimitars": {
+        
+        
+        
+        "itemID": 364
+    },
+    "Equip Bronze Longswords": {
+        
+        
+        
+        "itemID": 58
+    },
+    "Equip Bronze Full Helms": {
+        
+        
+        
+        "itemID": 122
+    },
+    "Equip Bronze Battleaxes": {
+        
+        
+        
+        "itemID": 56
+    },
+    "Equip Bronze Platelegs": {
+        
+        
+        
+        "itemID": 41
+    },
+    "Equip Bronze Shields": {
+        
+        
+        
+        "itemID": 185
+    },
+    "Equip Bronze Chainmail": {
+        
+        
+        
+        "itemID": 370
+    },
+    "Equip Bronze Greatswords": {
+        
+        
+        
+        "itemID": 97
+    },
+    "Equip Bronze Chestplates": {
+        
+        
+        
+        "itemID": 40
+
+  },
+
+    
+
+    "Equip Iron Gloves": {
+        
+        
+        
+        "itemID": 121
+    },
+    "Equip Iron Arrows": {
+        
+        
+        
+        
+        "itemID": 329
+    },
+    "Equip Iron Pickaxes": {
+        
+        
+        
+        "itemID": 74
+    },
+    "Equip Iron Hatchets": {
+        
+        
+        
+        "itemID": 315
+    },
+    "Equip Iron Helms": {
+        
+        
+        
+        "itemID": 120
+    },
+    "Equip Iron Scimitars": {
+        
+        
+        
+        "itemID": 365
+    },
+    "Equip Iron Longswords": {
+        
+        
+        
+        "itemID": 59
+    },
+    "Equip Iron Full Helms": {
+        
+        
+        
+        "itemID": 128
+    },
+    "Equip Iron Battleaxes": {
+        
+        
+        
+        "itemID": 57
+    },
+    "Equip Iron Platelegs": {
+        
+        
+        
+        "itemID": 119
+    },
+    "Equip Iron Shields": {
+        
+        
+        
+        "itemID": 191
+    },
+    "Equip Iron Chainmail": {
+        
+        
+        
+        "itemID": 371
+    },
+    "Equip Iron Greatswords": {
+        
+        
+        
+        "itemID": 126
+    },
+    "Equip Iron Chestplates": {
+        
+        
+        
+        "itemID": 118
+
+  },
+
+    
+
+    "Equip Steel Gloves": {
+        
+        
+        
+        "itemID": 93
+    },
+    "Equip Steel Arrows": {
+        
+        
+        
+        
+        "itemID": 330
+    },
+    "Equip Steel Pickaxes": {
+        
+        
+        
+        "itemID": 75
+    },
+    "Equip Steel Hatchets": {
+        
+        
+        
+        "itemID": 316
+    },
+    "Equip Steel Helms": {
+        
+        
+        
+        "itemID": 53
+    },
+    "Equip Steel Scimitars": {
+        
+        
+        
+        "itemID": 366
+    },
+    "Equip Steel Longswords": {
+        
+        
+        
+        "itemID": 60
+    },
+    "Equip Steel Full Helms": {
+        
+        
+        
+        "itemID": 123
+    },
+    "Equip Steel Battleaxes": {
+        
+        
+        
+        "itemID": 63
+    },
+    "Equip Steel Platelegs": {
+        
+        
+        
+        "itemID": 43
+    },
+    "Equip Steel Shields": {
+        
+        
+        
+        "itemID": 186
+    },
+    "Equip Steel Chainmail": {
+        
+        
+        
+        "itemID": 372
+    },
+    "Equip Steel Greatswords": {
+        
+        
+        
+        "itemID": 127
+    },
+    "Equip Steel Chestplates": {
+        
+        
+        
+        "itemID": 42
+
+  },
+
+    
+
+    "Equip Palladium Gloves": {
+        
+        
+        
+        "itemID": 94
+    },
+    "Equip Palladium Arrows": {
+        
+        
+        
+        
+        "itemID": 331
+    },
+    "Equip Palladium Pickaxes": {
+        
+        
+        
+        "itemID": 76
+    },
+    "Equip Palladium Hatchets": {
+        
+        
+        
+        "itemID": 317
+    },
+    "Equip Palladium Helms": {
+        
+        
+        
+        "itemID": 54
+    },
+    "Equip Palladium Scimitars": {
+        
+        
+        
+        "itemID": 367
+    },
+    "Equip Palladium Longswords": {
+        
+        
+        
+        "itemID": 61
+    },
+    "Equip Palladium Full Helms": {
+        
+        
+        
+        "itemID": 124
+    },
+    "Equip Palladium Battleaxes": {
+        
+        
+        
+        "itemID": 78
+    },
+    "Equip Palladium Platelegs": {
+        
+        
+        
+        "itemID": 45
+    },
+    "Equip Palladium Shields": {
+        
+        
+        
+        "itemID": 187
+    },
+    "Equip Palladium Chainmail": {
+        
+        
+        
+        "itemID": 373
+    },
+    "Equip Palladium Greatswords": {
+        
+        
+        
+        "itemID": 146
+    },
+    "Equip Palladium Chestplates": {
+        
+        
+        
+        "itemID": 44
+
+  },
+
+    
+
+    "Equip Coronium Gloves": {
+        
+        
+        
+        "itemID": 95
+    },
+    "Equip Coronium Arrows": {
+        
+        
+        
+        
+        "itemID": 332
+
+    },
+    "Equip Coronium Pickaxes": {
+        
+        
+        
+        "itemID": 77
+    },
+    "Equip Coronium Hatchets": {
+        
+        
+        
+        "itemID": 318
+    },
+    "Equip Coronium Helms": {
+        
+        
+        
+        "itemID": 55
+    },
+    "Equip Coronium Scimitars": {
+        
+        
+        
+        "itemID": 368
+    },
+    "Equip Coronium Longswords": {
+        
+        
+        
+        "itemID": 62
+    },
+    "Equip Coronium Full Helms": {
+        
+        
+        
+        "itemID": 125
+    },
+    "Equip Coronium Battleaxes": {
+        
+        
+        
+        "itemID": 96
+    },
+    "Equip Coronium Platelegs": {
+        
+        
+        
+        "itemID": 47
+    },
+    "Equip Coronium Shields": {
+        
+        
+        
+        "itemID": 188
+    },
+    "Equip Coronium Chainmail": {
+        
+        
+        
+        "itemID": 374
+    },
+    "Equip Coronium Greatswords": {
+        
+        
+        
+        "itemID": 147
+    },
+    "Equip Coronium Chestplates": {
+        
+        
+        
+        "itemID": 46
+    },
+
+
+    "Equip Celadon Gloves": {
+        
+        
+        
+        "itemID": 246
+    },
+    "Equip Celadon Arrows": {
+        
+        
+        
+        
+        "itemID": 333
+    },
+    "Equip Celadon Pickaxes": {
+        
+        
+        
+        "itemID": 245
+    },
+    "Equip Celadon Hatchets": {
+        
+        
+        
+        "itemID": 319
+    },
+    "Equip Celadon Helms": {
+        
+        
+        
+        "itemID": 258
+    },
+    "Equip Celadon Scimitars": {
+        
+        
+        
+        "itemID": 369
+    },
+    "Equip Celadon Longswords": {
+        
+        
+        
+        "itemID": 249
+    },
+    "Equip Celadon Full Helms": {
+        
+        
+        
+        "itemID": 247
+    },
+    "Equip Celadon Battleaxes": {
+        
+        
+        
+        "itemID": 250
+    },
+    "Equip Celadon Platelegs": {
+        
+        
+        
+        "itemID": 244
+    },
+    "Equip Celadon Shields": {
+        
+        
+        
+        "itemID": 248
+    },
+    "Equip Celadon Chainmail": {
+        
+        
+        
+        "itemID": 377
+    },
+    "Equip Celadon Greatswords": {
+        
+        
+        
+        "itemID": 251
+    },
+    "Equip Celadon Chestplates": {
+        
+        
+        
+        "itemID": 243
+    },
+
+
+    "Equip Gold Warrior Helmet": {
+        
+        
+        
+        "itemID": 254
+    },
+    "Equip Silver Warrior Helmet": {
+        
+        
+        
+        "itemID": 255
+    },
+
+
+
+    "Equip Wooden Bows": {
+        
+        
+        "itemID": 341
+    },
+    "Equip Pine Bows": {
+        
+        
+        "itemID": 342
+    },
+    "Equip Oak Bows": {
+        
+        
+        "itemID": 343
+    },
+    "Equip Palm Bows": {
+        
+        
+        "itemID": 344
+    },
+    "Equip Cherry Bows": {
+        
+        
+        "itemID": 345
+    },
+    "Equip Wizard's Bows": {
+        
+        
+        "itemID": 360
+    },
+    "Equip Deadwood Bows": {
+        
+        
+        "itemID": 362
+    },
+
+    "Equip Black Leather Gloves (with 10 Strength) (+1 Crime)": {
+        "itemID": 137
+    },
+
+    "Equip Bandit Masks (+1 Crime)": {
+        "itemID": 136
     }
+
+
+
 
 }
