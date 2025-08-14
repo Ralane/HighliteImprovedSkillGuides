@@ -1599,28 +1599,44 @@
     },
 
     "Shake Trees": {
-        "xp": "0 XP"
+        "xp": "0 XP",
+        "itemID": 112,
+        "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'. Small chance to drop Golden Leaf."
     },
         "Shake Pine Trees": {
-        "xp": "0 XP"
+        "xp": "0 XP",
+        "itemID": 108,
+        "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'. Small chance to drop Golden Pinecone"
     },
         "Shake Oak Trees": {
-        "xp": "0 XP"
+        "xp": "0 XP",
+        "itemID": 110,
+        "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'. Small chance to drop Golden Acorn"
     },
         "Shake Palm Trees": {
-        "xp": "0 XP"
+        "xp": "0 XP",
+        "itemID": 114,
+        "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'. Small chance to drop Golden Coconut"
     },
         "Shake Cherry Blossoms": {
-        "xp": "0 XP"
+        "xp": "0 XP",
+        "itemID": 116,
+        "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'. Small chance to drop Golden Cherry Blossom"
     },
         "Shake Money Trees": {
-        "xp": "0 XP"
+        "xp": "0 XP",
+        "itemID": 6,
+        "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'."
     },
     "Shake Wizard's Trees": {
-        "xp": "0 XP"
+        "xp": "0 XP",
+        "itemID": 207,
+        "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'."
     },
     "Shake Deadwood Trees": {
-        "xp": "0 XP"
+        "xp": "0 XP",
+        "itemID": 219,
+        "itemEffects": "Trees must be cut down to refresh their shaking 'inventory'."
     }
 
 }
