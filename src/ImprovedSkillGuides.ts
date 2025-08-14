@@ -124,7 +124,9 @@ export default class ImprovedSkillGuides extends Plugin {
             let subject = child.childNodes[1].childNodes[0].textContent || ""; 
             // this.log("Processing subject: " + subject);
             // this.log("Lookuptable: " + JSON.stringify(lookupTable[subject]));
-          if (lookupTable[subject] && child.childNodes[1].childNodes.length < 3) {
+          if (lookupTable[subject] && !child.getAttribute('data-skill-guide-processed')) {
+
+            child.setAttribute('data-skill-guide-processed', "true");
 
             Object.entries(lookupTable[subject]).forEach((line) => {
 
@@ -194,14 +196,12 @@ export default class ImprovedSkillGuides extends Plugin {
                 }
 
                 
-                if(textContent) {
-                                        // this.log("Creating for " + subject);
+                    // this.log("Creating for " + subject);
                     let newText = document.createElement("span");
                     newText.className = "hs-text--yellow";
                     newText.style = "color: rgb(240, 230, 140) !important;";
                     newText.innerText = `${textContent}`;
                     child.childNodes[1].appendChild(newText);
-                }
             })
 
 
