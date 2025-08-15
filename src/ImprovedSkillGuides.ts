@@ -44,8 +44,15 @@ export default class ImprovedSkillGuides extends Plugin {
             callback: () => {},
         };
 
-        this.settings.showMaxHits = {
-            text: "Show Max Hits",
+        this.settings.showMaxHit = {
+            text: "Show Max Hit",
+            type: SettingsTypes.checkbox,
+            value: true,
+            callback: () => {},
+        };
+
+        this.settings.showSpellCosts = {
+            text: "Show Spell Costs",
             type: SettingsTypes.checkbox,
             value: true,
             callback: () => {},
@@ -164,8 +171,12 @@ export default class ImprovedSkillGuides extends Plugin {
                             lookupTable[subject]["itemID"]
                         );
 
+                        if(!itemDef) {
+                            this.error(`Unable to find item def for subject ${subject} at ID ${lookupTable[subject]["itemID"]}`);
+                        }
+
                         // Recipe (if item has crafting recipe)
-                        if (itemDef._recipe && itemDef._recipe._ingredients && itemDef._recipe._ingredients.length > 0) {
+                        if (itemDef && itemDef._recipe && itemDef._recipe._ingredients && itemDef._recipe._ingredients.length > 0) {
                             itemDef._recipe._ingredients.forEach((ingredient: any) => {
                                 const ingredientDiv = document.createElement('div');
                                 ingredientDiv.className = 'hs-ui-item-tooltip-effect';
@@ -191,6 +202,8 @@ export default class ImprovedSkillGuides extends Plugin {
                     }
                 } else if(line[0] === "maxHit" && !this.settings.showMaxHit.value) {
                     // this.log("Skipping Max Hit");
+                } else if(line[0] === "spellRecipe" && !this.settings.showSpellCosts.value) {
+                    // this.log("Skipping Spell Cost");
                 } else if(line[0] === "xp" && !this.settings.showXp.value) {
                     // this.log("Skipping XP");
                 } else if(line[0] === "facility" && !this.settings.showFacility.value) {

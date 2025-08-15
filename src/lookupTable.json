@@ -2418,154 +2418,154 @@
     },
 
     "Cast Water's Fury": {
-        "recipe": "1X Fury Scroll, 1X Water Scroll",
+        "spellRecipe": "1X Fury Scroll, 1X Water Scroll",
         "xp": "4 XP + 1 XP per damage",
         "maxHit": "Max hit: 2"
     },
     "Cast Nature's Fury": {
-        "recipe": "1X Fury Scroll, 1X Nature Scroll",
+        "spellRecipe": "1X Fury Scroll, 1X Nature Scroll",
         "xp": "8 XP + 1 XP per damage",
         "maxHit": "Max hit: 4"
     },
     "Cast Fire's Fury": {
-        "recipe": "1X Fury Scroll, 1X Fire Scroll",
+        "spellRecipe": "1X Fury Scroll, 1X Fire Scroll",
         "xp": "12 XP + 1 XP per damage",
         "maxHit": "Max hit: 6"
     },
 
     "Cast Water's Rage": {
-        "recipe": "1X Rage Scroll, 3X Water Scroll",
+        "spellRecipe": "1X Rage Scroll, 3X Water Scroll",
         "xp": "15 XP + 1 XP per damage",
         "maxHit": "Max hit: 8"
     },
     "Cast Nature's Rage": {
-        "recipe": "1X Rage Scroll, 3X Nature Scroll",
+        "spellRecipe": "1X Rage Scroll, 3X Nature Scroll",
         "xp": "18 XP + 1 XP per damage",
         "maxHit": "Max hit: 10"
     },
     "Cast Fire's Rage": {
-        "recipe": "1X Rage Scroll, 3X Fire Scroll",
+        "spellRecipe": "1X Rage Scroll, 3X Fire Scroll",
         "xp": "21 XP + 1 XP per damage",
         "maxHit": "Max hit: 12"
     },
 
     "Cast Water's Blood": {
-        "recipe": "1X Blood Scroll, 5X Water Scroll",
+        "spellRecipe": "1X Blood Scroll, 5X Water Scroll",
         "xp": "30 XP + 1 XP per damage",
         "maxHit": "Max hit: 14"
     },
     "Cast Nature's Blood": {
-        "recipe": "1X Blood Scroll, 5X Nature Scroll",
+        "spellRecipe": "1X Blood Scroll, 5X Nature Scroll",
         "xp": "33 XP + 1 XP per damage",
         "maxHit": "Max hit: 16"
     },
     "Cast Fire's Blood": {
-        "recipe": "1X Blood Scroll, 5X Fire Scroll",
+        "spellRecipe": "1X Blood Scroll, 5X Fire Scroll",
         "xp": "37 XP + 1 XP per damage",
         "maxHit": "Max hit: 18"
     },
 
     "Cast Outburst": {
-        "recipe": "2X Blood Scroll, 3X Rage Scroll, 4X Fury Scroll, 10X Fire Scroll",
+        "spellRecipe": "2X Blood Scroll, 3X Rage Scroll, 4X Fury Scroll, 10X Fire Scroll",
         "xp": "50 XP + 1 XP per damage",
         "maxHit": "Max hit: 30",
         "itemEffects": "Must have Damogui's Staff equipped. Deals damage to creatures in an area around main target"
     },
 
     "Cast Musculor Reduction": {
-        "recipe": "1X Energy Scroll, 2X Fire Scroll",
+        "spellRecipe": "1X Energy Scroll, 2X Fire Scroll",
         "xp": "15 XP"
     },
 
     "Cast Oculus Reduction": {
-        "recipe": "1X Energy Scroll, 2X Nature Scroll",
+        "spellRecipe": "1X Energy Scroll, 2X Nature Scroll",
         "xp": "15 XP"
     },
 
     "Cast Armada Reduction": {
-        "recipe": "1X Energy Scroll, 2X Water Scroll",
+        "spellRecipe": "1X Energy Scroll, 2X Water Scroll",
         "xp": "15 XP"
     },
 
     "Cast Aurum Minor": {
-        "recipe": "1X Alchemy Scroll, 2X Fire Scroll",
+        "spellRecipe": "1X Alchemy Scroll, 2X Fire Scroll",
         "xp": "30 XP"
     },
 
     "Cast Aurum Majora": {
-        "recipe": "1X Alchemy Scroll, 4X Fire Scroll",
+        "spellRecipe": "1X Alchemy Scroll, 4X Fire Scroll",
         "xp": "70 XP"
     },
 
-"Hedgecastle Teleport": {
-"recipe": "1X Warp Scroll, 1X Water Scroll",
+"Cast Hedgecastle Teleport": {
+"spellRecipe": "1X Warp Scroll, 1X Water Scroll",
 "xp": "25 XP"
 },
 
-"Celadon Teleport": {
-"recipe": "1X Warp Scroll, 2X Energy Scroll",
+"Cast Celadon Teleport": {
+"spellRecipe": "1X Warp Scroll, 2X Energy Scroll",
 "xp": "30 XP"
 },
 
-"Dragonsmoke Teleport": {
-"recipe": "1X Warp Scroll, 5X Fire Scroll",
+"Cast Dragonsmoke Teleport": {
+"spellRecipe": "1X Warp Scroll, 5X Fire Scroll",
 "xp": "30 XP"
 },
 
-"Ictirine Teleport": {
-"recipe": "1X Warp Scroll, 1X Nature Scroll",
+"Cast Ictirine Teleport": {
+"spellRecipe": "1X Warp Scroll, 1X Nature Scroll",
 "xp": "35 XP"
  },
 
-"Water Obelisk Teleport": {
-"recipe": "1X Warp Scroll, 10X Water Scroll",
+"Cast Water Obelisk Teleport": {
+"spellRecipe": "1X Warp Scroll, 10X Water Scroll",
 "xp": "40 XP"
 },
 
-"Nature Obelisk Teleport": {
-"recipe": "1X Warp Scroll, 10X Nature Scroll",
+"Cast Nature Obelisk Teleport": {
+"spellRecipe": "1X Warp Scroll, 10X Nature Scroll",
 "xp": "40 XP"
  },
 
-"Fire Obelisk Teleport": {
+"Cast Fire Obelisk Teleport": {
 
-"recipe": "1X Warp Scroll, 10X Fire Scroll",
+"spellRecipe": "1X Warp Scroll, 10X Fire Scroll",
 "xp": "40 XP" },
 
-"Fury Obelisk Teleport": {
-"recipe": "1X Warp Scroll, 10X Fury Scroll", "xp": "40 XP" },
+"Cast Fury Obelisk Teleport": {
+"spellRecipe": "1X Warp Scroll, 10X Fury Scroll", "xp": "40 XP" },
 
-"Energy Obelisk Teleport": {
-"recipe": "1X Warp Scroll, 10X Energy Scroll",
+"Cast Energy Obelisk Teleport": {
+"spellRecipe": "1X Warp Scroll, 10X Energy Scroll",
 "xp": "40 XP"
 },
 
-"Rage Obelisk Teleport": {
-"recipe": "1X Warp Scroll, 10X Rage Scroll", "xp": "40 XP" },
+"Cast Rage Obelisk Teleport": {
+"spellRecipe": "1X Warp Scroll, 10X Rage Scroll", "xp": "40 XP" },
 
-"Wizard's Obelisk Teleport": {
+"Cast Wizard's Obelisk Teleport": {
 
-"recipe": "1X Warp Scroll, 10X Magic Scroll",
+"spellRecipe": "1X Warp Scroll, 10X Magic Scroll",
 "xp": "40 XP" },
 
-"Highcove Teleport": {
-"recipe": "1X Warp Scroll, 2X Water Scroll",
+"Cast Highcove Teleport": {
+"spellRecipe": "1X Warp Scroll, 2X Water Scroll",
 "xp": "40 XP" },
 
-"Anglham Teleport": {
-"recipe": "1X Warp Scroll, 5X Nature Scroll",
+"Cast Anglham Teleport": {
+"spellRecipe": "1X Warp Scroll, 5X Nature Scroll",
 "xp": "45 XP" },
 
-"Portal Obelisk Teleport": {
-"recipe": "10X Warp Scroll", "xp": "55 XP"
+"Cast Portal Obelisk Teleport": {
+"spellRecipe": "10X Warp Scroll", "xp": "55 XP"
 	},
 
-"Golden Obelisk Teleport": {
-"recipe": "1X Warp Scroll, 10X Alchemy Scroll",
+"Cast Golden Obelisk Teleport": {
+"spellRecipe": "1X Warp Scroll, 10X Alchemy Scroll",
 "xp": "55 XP" },
 
-"Blood Obelisk Teleport": {
-"recipe": "1X Warp Scroll, 10X Blood Scroll",
+"Cast Blood Obelisk Teleport": {
+"spellRecipe": "1X Warp Scroll, 10X Blood Scroll",
 "xp": "55 XP"
  }
  
