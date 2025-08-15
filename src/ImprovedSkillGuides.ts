@@ -1,5 +1,5 @@
-import {Plugin, SettingsTypes, UIManager } from "@highlite/plugin-api";
-import { PanelManager } from "@highlite/plugin-api";
+import {Plugin, SettingsTypes, UIManager } from "@highlite/core";
+import { PanelManager } from "@highlite/core";
 import lookupTable from './lookupTable.json';
 
 export default class ImprovedSkillGuides extends Plugin {
