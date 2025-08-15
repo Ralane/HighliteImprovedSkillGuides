@@ -26,14 +26,14 @@ export default class ImprovedSkillGuides extends Plugin {
         this.settings.showXp = {
             text: "Show XP",
             type: SettingsTypes.checkbox,
-            value: false,
+            value: true,
             callback: () => {},
         };
 
         this.settings.showTool = {
             text: "Show Tool",
             type: SettingsTypes.checkbox,
-            value: true,
+            value: false,
             callback: () => {},
         };
 
@@ -44,10 +44,17 @@ export default class ImprovedSkillGuides extends Plugin {
             callback: () => {},
         };
 
+        this.settings.showMaxHits = {
+            text: "Show Max Hits",
+            type: SettingsTypes.checkbox,
+            value: true,
+            callback: () => {},
+        };
+
         this.settings.showItemEffects = {
             text: "Show Misc Notes",
             type: SettingsTypes.checkbox,
-            value: false,
+            value: true,
             callback: () => {},
         };
 
@@ -182,6 +189,8 @@ export default class ImprovedSkillGuides extends Plugin {
 
 
                     }
+                } else if(line[0] === "maxHit" && !this.settings.showMaxHit.value) {
+                    // this.log("Skipping Max Hit");
                 } else if(line[0] === "xp" && !this.settings.showXp.value) {
                     // this.log("Skipping XP");
                 } else if(line[0] === "facility" && !this.settings.showFacility.value) {
