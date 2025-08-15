@@ -3,70 +3,60 @@
         "recipe": "Aruba Root + Carrot + Vial",
         "xp": "25 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "10% boost to Accuracy level",
         "itemID": 261
     },
     "Brew Potion of Forestry": {
         "recipe": "Fiji Root + Leaf + Vial",
         "xp": "30 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "5% boost to Forestry level",
         "itemID": 275
     },
     "Brew Potion of Fishing": {
         "recipe": "Sardinian Root + Starfish + Vial",
         "xp": "35 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "5% boost to Fishing level",
         "itemID": 267
     },
     "Brew Potion of Mining": {
         "recipe": "Maui Root + Palladium Ore + Vial",
         "xp": "50 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "5% boost to Mining level",
         "itemID": 271
     },
     "Brew Potion of Defense": {
         "recipe": "Grenada Root + Bone Meal + Vial ",
         "xp": "40 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "10% boost to Defense level",
         "itemID": 263
     },
     "Brew Potion of Smithing": {
         "recipe": "Tonga Root + Palladium Bar + Vial",
         "xp": "100 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "5% boost to Smithing level",
         "itemID": 269
     },
     "Brew Potion of Restoration": {
         "recipe": "Nauru Root + Strawberry + Vial",
         "xp": "45 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "Restores any stats that have been altered",
         "itemID": 273
     },
     "Brew Potion of Strength": {
         "recipe": "Samoan Root + Grapes + Vial",
         "xp": "65 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "10% boost to Strength level",
         "itemID": 265
     },
     "Brew Potion of Mischief": {
         "recipe": "Vanua Root + Rat Tail + Vial",
         "xp": "80 XP",
         "facility": "Witch's Cauldron",
-        "itemEffects": "5% boost to Crime level",
         "itemID": 285
     },
     "Brew Potion of Magic": {
         "recipe": "Mariana Root + Elf Ears + Vial",
         "xp": "125 XP",
         "facility": "Wizard's Cauldron",
-        "itemEffects": "10% boost to Magic level",
         "itemID": 291
     },
 
@@ -926,7 +916,8 @@
     "xp": "150 XP"
 },
 "Picklock the Goblin Hut Chest": {
-    "xp": "0 XP"
+    "xp": "0 XP",
+    "itemEffects": "Goblin Hut Chest is not currently accessible in game."
 },
 "Picklock Dwarven Chests": {
     "xp": "200 XP"
@@ -1010,7 +1001,7 @@
 "Chop Money Trees": {
     "xp": "80 XP",
     "itemID": 182,
-    "itemEffects": "Requires 55 Magic to cast Golden Obelisk Teleport"
+    "itemEffects": "Requires casting Golden Obelisk Teleport"
 },
 "Chop Wizard's Trees": {
     "xp": "265 XP",
@@ -1268,42 +1259,50 @@
         "recipe": "Logs",
         "xp": "5 XP",
         "tool": "Knife",
-        "itemID": 326
+        "itemID": 326,
+        "itemEffects": "Produces 5x Arrow Shafts"
     },
     "Craft Headless Arrows": {
         "recipe": "5x Feathers + 5x Arrow Shafts",
         "xp": "5 XP",
-        "itemID": 327
+        "itemID": 327,
+        "itemEffects": "Can produce up to 5x Headless Arrows at a time"
     },
     "Craft Bronze Arrows": {
         "recipe": "5x Headless Arrows + 5x Bronze Arrowheads",
         "xp": "25 XP",
-        "itemID": 334
+        "itemID": 334,
+        "itemEffects": "Can produce up to 5x Bronze Arrows at a time"
     },
     "Craft Iron Arrows": {
         "recipe": "5x Headless Arrows + 5x Iron Arrowheads",
         "xp": "50 XP",
-        "itemID": 335
+        "itemID": 335,
+        "itemEffects": "Can produce up to 5x Iron Arrows at a time"
     },
     "Craft Steel Arrows": {
         "recipe": "5x Headless Arrows + 5x Steel Arrowheads",
         "xp": "75 XP",
-        "itemID": 336
+        "itemID": 336,
+        "itemEffects": "Can produce up to 5x Steel Arrows at a time"
     },
     "Craft Palladium Arrows": {
         "recipe": "5x Headless Arrows + 5x Palladium Arrowheads",
         "xp": "100 XP",
-        "itemID": 337
+        "itemID": 337,
+        "itemEffects": "Can produce up to 5x Palladium Arrows at a time"
     },
     "Craft Coronium Arrows": {
         "recipe": "5x Headless Arrows + 5x Coronium Arrowheads",
         "xp": "125 XP",
-        "itemID": 338
+        "itemID": 338,
+        "itemEffects": "Can produce up to 5x Coronium Arrows at a time"
     },
     "Craft Celadon Arrows": {
         "recipe": "5x Headless Arrows + 5x Celadon Arrowheads",
         "xp": "150 XP",
-        "itemID": 339
+        "itemID": 339,
+        "itemEffects": "Can produce up to 5x Celadon Arrows at a time"
     },
 
 
@@ -1443,55 +1442,64 @@
         "recipe": "Silver Bar + Monk's Necklace Mould",
         "xp": "40 XP",
         "facility": "Kiln",
-        "itemID": 380
+        "itemID": 380,
+        "tool": "Monk's Necklace Mould"
     },
     "Craft Amethyst Necklaces": {
         "recipe": "Silver Bar + Amethyst Gem + Necklace Mould",
         "xp": "25 XP",
         "facility": "Kiln",
-        "itemID": 194
+        "itemID": 194,
+        "tool": "Necklace Mould"
     },
     "Craft Sapphire Necklaces": {
         "recipe": "Silver Bar + Sapphire Gem + Necklace Mould",
         "xp": "50 XP",
         "facility": "Kiln",
-        "itemID": 195
+        "itemID": 195,
+        "tool": "Necklace Mould"
     },
     "Craft Emerald Necklaces": {
         "recipe": "Silver Bar + Emerald Gem + Necklace Mould",
         "xp": "75 XP",
         "facility": "Kiln",
-        "itemID": 196
+        "itemID": 196,
+        "tool": "Necklace Mould"
     },
     "Craft Topaz Necklaces": {
         "recipe": "Silver Bar + Topaz Gem + Necklace Mould",
         "xp": "125 XP",
         "facility": "Kiln",
-        "itemID": 197
+        "itemID": 197,
+        "tool": "Necklace Mould"
     },
     "Craft Citrine Necklaces": {
         "recipe": "Silver Bar + Citrine Gem + Necklace Mould",
         "xp": "175 XP",
         "facility": "Kiln",
-        "itemID": 198
+        "itemID": 198,
+        "tool": "Necklace Mould"
     },
     "Craft Ruby Necklaces": {
         "recipe": "Silver Bar + Ruby Gem + Necklace Mould",
         "xp": "250 XP",
         "facility": "Kiln",
-        "itemID": 199
+        "itemID": 199,
+        "tool": "Necklace Mould"
     },
     "Craft Diamond Necklaces": {
         "recipe": "Silver Bar + Diamond Gem + Necklace Mould",
         "xp": "350 XP",
         "facility": "Kiln",
-        "itemID": 200
+        "itemID": 200,
+        "tool": "Necklace Mould"
     },
     "Craft Carbonado Necklaces": {
         "recipe": "Silver Bar + Carbonado Gem + Necklace Mould",
         "xp": "500 XP",
         "facility": "Kiln",
-        "itemID": 426
+        "itemID": 426,
+        "tool": "Necklace Mould"
     },
 
 
@@ -1499,49 +1507,57 @@
         "recipe": "Gold Bar + Amethyst Gem + Necklace Mould",
         "xp": "250 XP",
         "facility": "Kiln",
-        "itemID": 427
+        "itemID": 427,
+        "tool": "Necklace Mould"
     },
     "Craft Gold Sapphire Necklaces": {
         "recipe": "Gold Bar + Sapphire Gem + Necklace Mould",
         "xp": "300 XP",
         "facility": "Kiln",
-        "itemID": 428
+        "itemID": 428,
+        "tool": "Necklace Mould"
     },
     "Craft Gold Emerald Necklaces": {
         "recipe": "Gold Bar + Emerald Gem + Necklace Mould",
         "xp": "350 XP",
         "facility": "Kiln",
-        "itemID": 429
+        "itemID": 429,
+        "tool": "Necklace Mould"
     },
     "Craft Gold Topaz Necklaces": {
         "recipe": "Gold Bar + Topaz Gem + Necklace Mould",
         "xp": "400 XP",
         "facility": "Kiln",
-        "itemID": 430
+        "itemID": 430,
+        "tool": "Necklace Mould"
     },
     "Craft Gold Citrine Necklaces": {
         "recipe": "Gold Bar + Citrine Gem + Necklace Mould",
         "xp": "450 XP",
         "facility": "Kiln",
-        "itemID": 431
+        "itemID": 431,
+        "tool": "Necklace Mould"
     },
     "Craft Gold Ruby Necklaces": {
         "recipe": "Gold Bar + Ruby Gem + Necklace Mould",
         "xp": "500 XP",
         "facility": "Kiln",
-        "itemID": 432
+        "itemID": 432,
+        "tool": "Necklace Mould"
     },
     "Craft Gold Diamond Necklaces": {
         "recipe": "Gold Bar + Diamond Gem + Necklace Mould",
         "xp": "550 XP",
         "facility": "Kiln",
-        "itemID": 433
+        "itemID": 433,
+        "tool": "Necklace Mould"
     },
     "Craft Gold Carbonado Necklaces": {
         "recipe": "Gold Bar + Carbonado Gem + Necklace Mould",
         "xp": "600 XP",
         "facility": "Kiln",
-        "itemID": 434
+        "itemID": 434,
+        "tool": "Necklace Mould"
     },
 
     "Spin String": {
@@ -1725,7 +1741,7 @@
         "itemID": 479 
     },
 
-    "Equip Blood Hood": {
+    "Equip Blood Hoods": {
         "itemID": 307
     },
 
@@ -2567,7 +2583,18 @@
 "Cast Blood Obelisk Teleport": {
 "spellRecipe": "1X Warp Scroll, 10X Blood Scroll",
 "xp": "55 XP"
- }
- 
+ },
 
+ "Equip Basic Rods": {
+    "itemID": 7
+ },
+  "Equip Great Rods": {
+    "itemID": 8
+ },
+ "Equip Ultra Rods": {
+    "itemID": 9
+ },
+  "Equip Master Rods": {
+    "itemID": 10
+ }
 }
