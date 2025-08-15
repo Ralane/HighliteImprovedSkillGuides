@@ -675,61 +675,61 @@
 
     "Enchant Water Scrolls": {
         "recipe": "Scroll",
-        "xp": "5 XP",
+        "xp": "5 XP per Scroll",
         "facility": "Water Obelisk",
         "itemID": 176
     },
     "Enchant Nature Scrolls": {
         "recipe": "Scroll",
-        "xp": "6 XP",
+        "xp": "6 XP per Scroll",
         "facility": "Nature Obelisk",
         "itemID": 177
     },
     "Enchant Fire Scrolls": {
         "recipe": "Scroll",
-        "xp": "8 XP",
+        "xp": "8 XP per Scroll",
         "facility": "Fire Obelisk",
         "itemID": 175
     },
     "Enchant Fury Scrolls": {
         "recipe": "Pine Scroll",
-        "xp": "9 XP",
+        "xp": "9 XP per Pine Scroll",
         "facility": "Fury Obelisk",
         "itemID": 178
     },
     "Enchant Energy Scrolls": {
         "recipe": "Palm Scroll",
-        "xp": "10 XP",
+        "xp": "10 XP per Palm Scroll",
         "facility": "Energy Obelisk",
         "itemID": 180
     },
     "Enchant Rage Scrolls": {
         "recipe": "Oak Scroll",
-        "xp": "11 XP",
+        "xp": "11 XP per Oak Scroll",
         "facility": "Rage Obelisk",
         "itemID": 179
     },
     "Enchant Alchemy Scrolls": {
         "recipe": "Lucky Scroll",
-        "xp": "12 XP",
+        "xp": "12 XP per Lucky Scroll",
         "facility": "Golden Obelisk",
         "itemID": 184
     },
     "Enchant Warp Scrolls": {
         "recipe": "Sakura Scroll",
-        "xp": "14 XP",
+        "xp": "14 XP per Sakura Scroll",
         "facility": "Portal Obelisk",
         "itemID": 181
     },
     "Enchant Magic Scrolls": {
         "recipe": "Wizard Scroll",
-        "xp": "15 XP",
+        "xp": "15 XP per Wizard Scroll",
         "facility": "Wizard's Obelisk",
         "itemID": 355
     },
     "Enchant Blood Scrolls": {
         "recipe": "Deadwood Scroll",
-        "xp": "17 XP",
+        "xp": "17 XP per Deadwood Scroll",
         "facility": "Blood Obelisk",
         "itemID": 358
     },
