@@ -31,7 +31,7 @@
     },
     "Brew Potion of Smithing": {
         "recipe": "Tonga Root + Palladium Bar + Vial",
-        "xp": "100 XP",
+        "xp": "45 XP",
         "facility": "Witch's Cauldron",
         "itemID": 269
     },
@@ -56,8 +56,14 @@
     "Brew Potion of Magic": {
         "recipe": "Mariana Root + Elf Ears + Vial",
         "xp": "125 XP",
-        "facility": "Wizard's Cauldron",
+        "facility": "Witch's Cauldron",
         "itemID": 291
+    },
+    "Brew Potion of Stamina": {
+        "recipe": "Golden Koi + Aruba Root + Vial",
+        "xp": "50 XP",
+        "facility": "Witch's Cauldron",
+        "itemID": 511
     },
 
 
@@ -2583,6 +2589,11 @@
 "Cast Blood Obelisk Teleport": {
 "spellRecipe": "1X Warp Scroll, 10X Blood Scroll",
 "xp": "55 XP"
+ },
+
+ "Cast Cairn Teleport": {
+"spellRecipe": "2X Warp Scroll, 2X Water Scroll",
+"xp": "60 XP"
  },
 
  "Equip Basic Rods": {
